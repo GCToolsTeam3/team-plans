@@ -89,21 +89,19 @@ to mouse?
 http://api.jqueryui.com/position/
 
 
-
-
-
-Add mp3 option with HTML5 player
-https://github.com/gctools-
-
-outilsgc/gcpedia/blob/gcpedia/LocalSettings.
-
-md
-
 Also like Richards idea of autoscroll.
 
 
 
 
+5 - Group - How To Get to Main Group Page From Within A Group
+Who Is Working on it?
+Rick Massie
 
 
+Things We Need To Accomplish It?
+Testing server
+
+Ideas and Notes?
+This is an important UI feature that is missing. Should be easy to fix. 
 
