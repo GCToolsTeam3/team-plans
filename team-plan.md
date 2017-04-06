@@ -26,6 +26,8 @@ Who Is Working on it?
 
 Things We Need To Accomplish It?
 
+Rick says: I don't fully understand what is expected from this one. Maybe a quick brainstorm to help us flush out the ideas and what we want to accomplish? I'm not clear on what the outcome would be, or how we could get there. 
+
 
 Ideas and Notes?
 
