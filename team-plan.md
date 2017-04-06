@@ -51,10 +51,12 @@ Can't do too much in the time frame, But I think we can solve the unhelpful erro
 
 
 4-Tagging (Note - Rick M really want to do this, and I think it can be done quite easily)
+
 Who Is Working on it?
 Rick and Richard
 
 Things We Need To Accomplish It?
+
 Testing server - I have a local one, but the remote one won't work for me. So at least I can test locally and send a pull request to the main GCConnex repo if we get it fixed. 
 
 Ideas and Notes?
