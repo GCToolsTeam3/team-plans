@@ -1,10 +1,10 @@
-TEAM MEMBERS
-Irena Nikolova
-Richard Leir
-Amy Miville
-Nayla Hatem
-Rick Massie 
-
+<h2>TEAM MEMBERS</h2>
+<p>Irena Nikolova
+Richard Leir<br>
+Amy Miville<br>
+Nayla Hatem<br>
+Rick Massie <br>
+</p>
 1 - How to communicate effeciently and effectively via GCconnex
 Who Is Working on it?
 Irena and Amy
